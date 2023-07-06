@@ -8,7 +8,7 @@ A prime number is a whole number greater than 1 whose only factors are 1 and its
 Used : HTML, CSS, JavaScript  
 
 # Website Link :  
-https://prime-checker.saiju2001.repl.co
+https://armstrrong-checker.saiju2001.repl.co
 
 # Website: ![Landing page](https://github.com/SAIJU2001/Prime-Checker-Website/assets/102968768/22a1659f-28fb-4bdc-80e9-e1653859e41a)
 <h1 align="center">Hi 👋, I'm saikat naskar</h1>
