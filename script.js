@@ -37,7 +37,7 @@ function check()
     while (temp > 0) 
     {
         let rem = temp % 10;
-        sum = sum * 10 + rem;
+        sum = sum + Math.pow( rem, 3 );
         temp = parseInt(temp / 10);
     }
   
