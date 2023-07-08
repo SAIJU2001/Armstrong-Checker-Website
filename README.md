@@ -10,7 +10,9 @@ Used : HTML, CSS, JavaScript
 # Website Link :  
 https://armstrrong-checker.saiju2001.repl.co
 
-# Website: ![Landing page](https://github.com/SAIJU2001/Prime-Checker-Website/assets/102968768/22a1659f-28fb-4bdc-80e9-e1653859e41a)
+# Website: 
+![armstrong checker](https://github.com/SAIJU2001/Armstrong-Checker-Website/assets/102968768/70361dd0-edcb-481b-ab32-6c623f850011)
+
 <h1 align="center">Hi 👋, I'm saikat naskar</h1>
 <h3 align="center">A passionate developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiju2001&label=Profile%20views&color=0e75b6&style=flat" alt="saiju2001" /> </p>
